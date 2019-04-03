@@ -14,7 +14,7 @@ function x(n) {
         if (n === 0) {
             n = 6
         }
-    } // n = 1 2 3 
+    } // n = 1 2 3 4 5 6 
     return n
 }
 
